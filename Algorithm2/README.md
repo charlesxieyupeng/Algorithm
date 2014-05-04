@@ -1,2 +1,3 @@
-*********
-Algorithm Exercise
+******************
+Algorithm Exercise 
+******************
